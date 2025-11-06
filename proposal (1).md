@@ -36,4 +36,4 @@ TODO The best outcome for my project would to have an an functional game you cou
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-TODO
+TODO Skills I would need to acquire to do this game would be game designing skills. Although I am using a tutorial to guide me to make a pacman game and using the pacman template I definitely want to change it up a bit and make my idea make sense with the game. I also honestly don't know the exact rules of pacman so I do need to do a little research of how the game is actually played. I know the basic universal concept of it though.
