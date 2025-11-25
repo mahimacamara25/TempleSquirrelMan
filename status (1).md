@@ -26,4 +26,4 @@ TODO We have not been able to make our squierrel for our game, the ghost(objects
 
 #### What problems, if any, have you encountered?
 
-TODO A problem that has been fixed was why my pacman placement images werent showing up.
+TODO A problem that has been fixed was why my pacman placement images werent showing up. Also rescaling stuff to. 
